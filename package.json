@@ -1,0 +1,26 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindatarod85/joker2.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindatarod85/joker2/issues"
+  },
+  "homepage": "https://github.com/lindatarod85/joker2#readme"
+}
