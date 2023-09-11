@@ -26,5 +26,8 @@
   "homepage": "https://github.com/lindatarod85/joker2#readme",
   "devDependencies": {
     "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.0"
   }
 }
