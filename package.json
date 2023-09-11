@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lindatarod85/joker2/issues"
   },
-  "homepage": "https://github.com/lindatarod85/joker2#readme"
+  "homepage": "https://github.com/lindatarod85/joker2#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
